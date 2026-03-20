@@ -4,7 +4,7 @@
 
   `justinlee01656@gmail.com` | [LinkedIn](https://www.linkedin.com/in/justin-lee-85b2a8224) | [Portfolio](https://justinlee.vercel.app)
 
-  [![My Skills](https://skillicons.dev/icons?i=python,javascript,r,java,c,mysql,react,vue,flask)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,ts,r,java,c,mysql,react,vue,flask)](https://skillicons.dev)
   
   [![GitHub Streak](https://github-readme-streak-stats-psi-black.vercel.app/?user=JustinLee9&theme=dark)](https://git.io/streak-stats)
   
